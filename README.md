@@ -59,11 +59,9 @@ It wouldn't do, however, to just make code at random in the hopes of making prog
 
 <h3> Video Part 1: </h3>
 <a href="https://www.youtube.com/hvHnSBYK3-I">Code Review Part 1 </a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hvHnSBYK3-I?si=dJztw549TtSVQn4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h3> Video Part 2: </h3>
 <a href="https://www.youtube.com/zb2CByZkPEs">Code Review Part 2 </a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zb2CByZkPEs?si=jnNymLvpPC9MY0Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
